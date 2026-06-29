@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_hint">Введите название города</string>
+    <string name="loading">Загрузка…</string>
+    <string name="empty_cities">Города не найдены</string>
+    <string name="empty_cities_subtitle">Попробуйте изменить запрос</string>
+    <string name="error_generic">Не удалось загрузить данные</string>
+    <string name="error_no_network">Нет подключения к интернету</string>
+    <string name="error_no_network_subtitle">Проверьте соединение и попробуйте снова. Без интернета данные не загрузятся</string>
+    <string name="error_timeout">Превышено время ожидания</string>
+    <string name="error_server">Ошибка сервера</string>
+    <string name="error_client_format">Ошибка %1$d</string>
+    <string name="retry">Повторить</string>
+    <string name="try_again">Попробовать снова</string>
+    <string name="load_more_error">Не удалось загрузить ещё</string>
+    <string name="tap_to_retry">Нажмите, чтобы повторить</string>
+    <string name="city_not_found">Город не найден</string>
+    <string name="city_label">Город</string>
+    <string name="population_label">Население</string>
+    <string name="population_format">%1$s чел.</string>
+    <string name="country_label">Страна</string>
+    <string name="search_city_info">Поиск информации о городе</string>
+    <string name="back">Назад</string>
+    <string name="cities_title">Список городов</string>
+    <string name="city_detail_title">Информация о городе</string>
+    <string name="city_list_item_format">%1$s, %2$s</string>
+</resources>

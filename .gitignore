@@ -1,0 +1,70 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# ART/Dalvik
+*.dex
+
+# Java class files
+*.class
+
+# Generated / build output
+bin/
+gen/
+out/
+build/
+
+# Gradle
+.gradle/
+
+# Local SDK path — never commit
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Profiling
+*.hprof
+
+# Kotlin
+.kotlin/
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Signing keys
+*.jks
+*.keystore
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/readme.md
+
+# Device captures from Android Studio
+captures/
+
+# Cursor IDE (local agent state, not project source)
+.cursor/

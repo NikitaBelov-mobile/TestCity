@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="testcity_primary">#FF6200EE</color>
+    <color name="testcity_background">#FFFFFFFF</color>
+    <color name="testcity_on_primary">#FFFFFFFF</color>
+</resources>
